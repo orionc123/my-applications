@@ -42,6 +42,7 @@ public class Calculator {
 						System.out.println(subtract(a,b));
 						break;
 					case "*":
+					case "x":
 						System.out.println(multiply(a,b));
 						break;
 					case "/":
